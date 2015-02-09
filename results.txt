@@ -1,0 +1,38 @@
+For Lambda = 0.5 and given standard values (0.1,0.2,0.5,30100,30)
+------------------------------------------------------------------------------
+Mean of end-to-end Delay (without using batch means):1.35
+95th Percentile(without using batch means):2.804
+Mean end-to-end delay(using batch means):1.354
+Confidence Interval(Mean end-to-end delay using Batch means):[1.34012,1.36730]
+95th Percentile(with using batch means):2.786
+Confidence Interval(95th Pecentile using Batch means):[2.73988,2.83284]
+
+===============================================================================
+For Lambda = 1 and given standard values (0.1,0.2,0.5,30100,30)
+--------------------------------------------------------------------------------
+Mean of end-to-end Delay (without using batch means):1.89
+95th Percentile(without using batch means):4.046
+Mean end-to-end delay(using batch means):1.892
+Confidence Interval(Mean end-to-end delay using Batch means):[1.85398,1.93051]
+95th Percentile(with using batch means):4.065
+Confidence Interval(95th Pecentile using Batch means):[3.94768,4.18201]
+
+================================================================================
+For Lambda = 0.5 and given standard values (0.1,0.2,0.5,9100,30)
+--------------------------------------------------------------------------------
+Mean of end-to-end Delay (without using batch means):1.37
+95th Percentile(without using batch means):2.804
+Mean end-to-end delay(using batch means):1.368
+Confidence Interval(Mean end-to-end delay using Batch means):[1.34045,1.39485]
+95th Percentile(with using batch means):2.804
+Confidence Interval(95th Pecentile using Batch means):[2.71054,2.89783]
+=================================================================================
+For Lambda = 1 and given standard values (0.1,0.2,0.5,9100,30)
+----------------------------------------------------------------------------------
+Mean of end-to-end Delay (without using batch means):1.85
+95th Percentile(without using batch means):3.943
+Mean end-to-end delay(using batch means):1.851
+Confidence Interval(Mean end-to-end delay using Batch means):[1.77433,1.92718]
+95th Percentile(with using batch means):3.903
+Confidence Interval(95th Pecentile using Batch means):[3.66079,4.14528]
+===================================================================================
